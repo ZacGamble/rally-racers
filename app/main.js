@@ -1,3 +1,4 @@
+import { Racer } from "./Models/Racer.js"
 import{RaceController} from "./RaceController.js"
 
 class App{
@@ -6,3 +7,4 @@ class App{
 
 
 window['app'] = new App() 
+
